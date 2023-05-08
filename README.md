@@ -1,17 +1,8 @@
 ### Hi there 👋
 - Currently studying Computer Engineering
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Itonsow&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Itonsow&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Itonsow&show_icons=true" />
-</picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itonsow&layout=compact)](https://github.com/Itonsow/github-readme-stats)
-
+<div align="center">  
+  <a href="https://github.com/Itonsow">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itonsow&show_icons=true&count_private=true&hide_border=true&title_color=092c86&icon_color=666666&text_color=8b9dc3&bg_color=2c2f33" alt="Itonsow's GitHub stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itonsow&layout=compact&hide_border=true&title_color=092c86&text_color=8b9dc3&bg_color=2c2f33" />
+</div>
