@@ -1,8 +1,116 @@
-### Hi there 👋
-- Currently studying Computer Engineering
+<div align="center">
 
-<div align="center">  
-  <a href="https://github.com/Itonsow">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itonsow&show_icons=true&count_private=true&hide_border=true&title_color=99aab5&icon_color=666666&text_color=8b9dc3&bg_color=2c2f33" alt="Itonsow's GitHub stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itonsow&layout=compact&hide_border=true&title_color=99aab5&text_color=99aab5&bg_color=2c2f33" />
+# Gustavo Ito
+
+### Computer Engineering Student | Software Development
+
+Desenvolvedor em formação, interessado em desenvolvimento de software, backend, arquitetura de computadores e resolução de problemas.
+
+[GitHub](https://github.com/Itonsow)
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou estudante de **Engenharia da Computação**, com interesse em desenvolvimento de software e tecnologia.
+
+Atualmente estou aprofundando meus conhecimentos em **Java**, Programação Orientada a Objetos e desenvolvimento backend, além de desenvolver projetos acadêmicos e pessoais para colocar os conceitos em prática.
+
+Tenho interesse principalmente em:
+
+* Desenvolvimento Backend
+* Java e Programação Orientada a Objetos
+* Estruturas de Dados e Algoritmos
+* Arquitetura de Computadores
+* Sistemas Embarcados e VHDL
+* Compiladores
+* Inteligência Artificial e algoritmos de otimização
+* Linux e servidores
+
+---
+
+## Tecnologias
+
+**Linguagens**
+
+`Java` `C` `C++` `Python` `JavaScript` `PHP` `VHDL`
+
+**Desenvolvimento**
+
+`React` `Node.js` `Laravel` `Spring Boot`
+
+**Banco de Dados**
+
+`MySQL` `SQL`
+
+**Ferramentas e Ambiente**
+
+`Git` `GitHub` `Linux` `Docker`
+
+---
+
+## Projetos
+
+### CPU de 16 bits em VHDL
+
+Implementação de uma CPU de 16 bits utilizando VHDL, aplicando conceitos de arquitetura de computadores, unidade de controle, registradores e ULA.
+
+[Ver projeto](https://github.com/Itonsow/cpu-16-bits-vhdl)
+
+---
+
+### Traveling Salesman Problem — Genetic Algorithm
+
+Implementação de um algoritmo genético aplicado ao Problema do Caixeiro Viajante (TSP), explorando técnicas de otimização e inteligência computacional.
+
+[Ver projeto](https://github.com/Itonsow/tsp-genetic-algorithm)
+
+---
+
+### Compiler
+
+Projeto acadêmico relacionado à construção e estudo de compiladores.
+
+[Ver projeto](https://github.com/Itonsow/Compiler)
+
+---
+
+### WagerFestas
+
+Projeto de desenvolvimento web criado para aplicar conceitos de desenvolvimento de sistemas e aplicações web.
+
+[Ver projeto](https://github.com/Itonsow/WagerFestas)
+
+---
+
+## Atualmente estudando
+
+```text
+Java
+Programação Orientada a Objetos
+Estruturas de Dados
+Backend Development
+Compiladores
+```
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Itonsow&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itonsow&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Sempre aprendendo, desenvolvendo e buscando evoluir como engenheiro e desenvolvedor.
+
 </div>
