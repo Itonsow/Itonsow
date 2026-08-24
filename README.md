@@ -87,13 +87,11 @@ Projeto de desenvolvimento web criado para aplicar conceitos de desenvolvimento 
 
 ## Atualmente estudando
 
-```text
-Java
-Programação Orientada a Objetos
-Estruturas de Dados
-Backend Development
-Compiladores
-```
+* Java
+* Programação Orientada a Objetos
+* Estruturas de Dados e Algoritmos
+* Desenvolvimento Backend
+* Compiladores
 
 ---
 
@@ -101,9 +99,9 @@ Compiladores
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Itonsow&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itonsow&layout=compact&hide_border=true&theme=github_dark" />
+<a href="https://github.com/Itonsow">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itonsow&theme=github_dark" />
+</a>
 
 </div>
 
@@ -111,6 +109,7 @@ Compiladores
 
 <div align="center">
 
-### Sempre aprendendo, desenvolvendo e buscando evoluir como engenheiro e desenvolvedor.
+Desenvolvendo projetos, estudando novas tecnologias e evoluindo constantemente como engenheiro e desenvolvedor.
 
 </div>
+
