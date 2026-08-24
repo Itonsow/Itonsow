@@ -87,23 +87,19 @@ Projeto de desenvolvimento web criado para aplicar conceitos de desenvolvimento 
 
 ## Atualmente estudando
 
-* Java
-* Programação Orientada a Objetos
-* Estruturas de Dados e Algoritmos
-* Desenvolvimento Backend
-* Compiladores
+- Java
+- Programação Orientada a Objetos
+- Estruturas de Dados e Algoritmos
+- Desenvolvimento Backend
+- Compiladores
 
 ---
 
 ## GitHub
 
-<div align="center">
+Você pode acompanhar meus projetos, estudos e experimentos nos repositórios deste perfil.
 
-<a href="https://github.com/Itonsow">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itonsow&theme=github_dark" />
-</a>
-
-</div>
+[Ver meus repositórios](https://github.com/Itonsow?tab=repositories)
 
 ---
 
@@ -112,4 +108,3 @@ Projeto de desenvolvimento web criado para aplicar conceitos de desenvolvimento 
 Desenvolvendo projetos, estudando novas tecnologias e evoluindo constantemente como engenheiro e desenvolvedor.
 
 </div>
-
